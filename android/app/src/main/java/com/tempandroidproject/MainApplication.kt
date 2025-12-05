@@ -1,4 +1,4 @@
-package com.socialhook
+package com.tempandroidproject
 
 import android.app.Application
 import com.facebook.react.PackageList
